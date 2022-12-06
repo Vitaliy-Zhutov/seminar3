@@ -20,12 +20,13 @@ Git - это программа контроля версий. Сегодня п
     
     git add
 
+## Команды git commit
 
+* git commit
+* git commit -m "message"
+* git commit -am "message"
 
-    git commit
-    git -m "message"
-    git -am "message"
-
+    
     git diff
     git diff <hash1> <hash2>
 
