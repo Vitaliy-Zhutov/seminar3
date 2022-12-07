@@ -46,9 +46,12 @@ Git - это программа контроля версий. Сегодня п
 
 ## Команды git log
 
-    git log
-    git log --oneline
-    git log --all
-    git log -- oneline --all
+1. git log - отображает отправленные снимки состояния и позволяет просматривать и фильтровать историю проекта, а также проводить поиск по ней.
+
+2. git log --oneline
+
+3. git log --all
+
+4. git log -- oneline --all
 
 
