@@ -44,7 +44,7 @@ Git - это программа контроля версий. Сегодня п
    
     git checkout <hash>
 
-
+## Команды git log
 
     git log
     git log --oneline
