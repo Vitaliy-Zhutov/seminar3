@@ -38,7 +38,8 @@ Git - это программа контроля версий. Сегодня п
     
     git diff <hash1> <hash2>
 
-    
+ 
+
     git checkout <hash>
 
     git log
