@@ -74,17 +74,20 @@ git branch
 
 Чтобы переключится на другую ветку...
 
-Описание команд:
+## Домашняя работа
 
-git branch
-git branch <branch_name>
-git branch -d <branch_name>
+### Отображение веток в проекте
 
-git checkout <branch_name>
+### Создание новой ветки
 
-git log --graph
-git log --all --oneline --graph
+### Переключение между ветками
 
-git merge <branch_name>
+### Удаление ветки
+
+### Визуализация (диаграмма) веток в git log
+
+### Вывод всех веток в git log, в виде диаграмм
+
+### Слияние веток
 
 Конфликт слияния и его разрешение
